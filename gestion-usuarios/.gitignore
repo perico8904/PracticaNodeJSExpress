@@ -61,3 +61,6 @@ serviceAccountKey.json
 
 # Next.js
 .next
+
+.env
+serviceAccountKey.json
